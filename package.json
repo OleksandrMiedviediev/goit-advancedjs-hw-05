@@ -1,0 +1,26 @@
+{
+  "name": "goit-advancedjs-hw-05",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc",
+    "start": "web-dev-server --node-resolve --open --watch",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OleksandrMiedviediev/goit-advancedjs-hw-05.git"
+  },
+  "keywords": [],
+  "author": "Oleksandr Miedviediev <oleksandrmiedviediev@gmail.com>",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/OleksandrMiedviediev/goit-advancedjs-hw-05/issues"
+  },
+  "homepage": "https://github.com/OleksandrMiedviediev/goit-advancedjs-hw-05#readme",
+  "devDependencies": {
+    "@web/dev-server": "^1.0.0"
+  }
+}
