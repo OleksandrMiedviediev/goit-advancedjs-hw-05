@@ -21,6 +21,7 @@
   },
   "homepage": "https://github.com/OleksandrMiedviediev/goit-advancedjs-hw-05#readme",
   "devDependencies": {
-    "@web/dev-server": "^1.0.0"
+    "@web/dev-server": "^1.0.0",
+    "typescript": "^7.0.2"
   }
 }
